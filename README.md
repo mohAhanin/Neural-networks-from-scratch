@@ -4,3 +4,4 @@ chapter 1 : introduction </br>
 chapter 2 : coding first neurons </br>
 chapter 3 : adding layers </br>
 chapter 4 : activation functions </br>
+chapter 5 : loss </br>
