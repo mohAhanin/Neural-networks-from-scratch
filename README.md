@@ -3,4 +3,4 @@ Recently I have started Reading the book Neural Networks from Scratch in Python 
 chapter 1 : introduction </br>
 chapter 2 : coding first neurons </br>
 chapter 3 : adding layers </br>
-chapter 4 : activation function </br>
+chapter 4 : activation functions </br>
